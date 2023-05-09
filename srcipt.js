@@ -47,8 +47,7 @@ form.addEventListener("submit", (e) => {
 let text = [
   "Ethusiastic Dev",
   "Full Stack Developer",
-  "MERN Developer",
-  "React Developer",
+  "Java Devoloper",
   "Cross Platform",
   "Web Developer",
   "NodeJS Developer",
